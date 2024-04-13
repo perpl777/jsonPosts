@@ -1,0 +1,19 @@
+{
+    "projects": [
+            {
+                "id": 1,
+                "title": "Graffity",
+                "image": "https://images.unsplash.com/photo-1631070398737-4b379318e498?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 2,
+                "title": "Graffity",
+                "image": "https://images.unsplash.com/photo-1625277546131-df7a27a6a345?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 3,
+                "title": "Star Symbol",
+                "image": "https://images.unsplash.com/photo-1583325331545-6eeefb6cdfc8?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ]
+}
